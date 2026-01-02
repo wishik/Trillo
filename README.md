@@ -1,2 +1,2 @@
-# <a href="https://afoninis.github.io/Trillo/">Trillo</a>
+# <a href="https://steelaura.github.io/Trillo/">Trillo</a>
 Landing page for Trillo project (courses)
